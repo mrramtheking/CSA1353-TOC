@@ -14,6 +14,7 @@
 ![code](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/b796922c-d40a-4759-8e53-b74eef24fc98)
 
 ****SAMPLE USAGE:****
+
 **Word Examples**
 
 ![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/7251c2e2-a548-4050-8be0-4eb5f613e896)
