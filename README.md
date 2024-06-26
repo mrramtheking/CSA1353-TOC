@@ -23,5 +23,3 @@ CODE SNIPPET:
 
 **FINAL OUTPUT:**
 
-
-![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/c3239ff6-749b-45c0-9c78-942ec4ff6bde)
