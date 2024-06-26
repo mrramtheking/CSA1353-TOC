@@ -1,4 +1,4 @@
-![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/c8bed409-9b0a-4314-bb8c-b4a8672c5241)**Translate Using Python**
+**Translate Using Python**
 
 CODE SNIPPET: 
 ![code](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/72258136-a1fe-4459-8da4-c0463228cb3a)
@@ -13,6 +13,8 @@ CODE SNIPPET:
 
 ****SAMPLE USAGE:****
 
+![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/c8bed409-9b0a-4314-bb8c-b4a8672c5241)
+
 **Word Examples**
 
 ![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/7251c2e2-a548-4050-8be0-4eb5f613e896)
@@ -23,3 +25,4 @@ CODE SNIPPET:
 
 **FINAL OUTPUT:**
 
+![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/e494e02e-61e7-49b8-a02b-bd20933906a6)
