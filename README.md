@@ -1,5 +1,6 @@
-**Translate Using Python**
+![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/c8bed409-9b0a-4314-bb8c-b4a8672c5241)**Translate Using Python**
 
+CODE SNIPPET: 
 ![code](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/72258136-a1fe-4459-8da4-c0463228cb3a)
 
 ![code](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/9e0eb25e-43c5-4599-89b1-1efa6f9fdd43)
@@ -10,3 +11,17 @@
 
 ![code](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/b796922c-d40a-4759-8e53-b74eef24fc98)
 
+****SAMPLE USAGE:****
+
+**Word Examples**
+
+![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/7251c2e2-a548-4050-8be0-4eb5f613e896)
+
+**Code Workflow**
+
+![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/a5a8eaca-2c93-4551-a271-5d8cb6df094b)
+
+**FINAL OUTPUT:**
+
+
+![image](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/c3239ff6-749b-45c0-9c78-942ec4ff6bde)
