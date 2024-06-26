@@ -1,6 +1,6 @@
-**Translate Using Python**
+****Translate Using Python****
 
-**CODE SNIPPET: **
+**CODE SNIPPET:**
 
 
 ![code](https://github.com/mrramtheking/CSA1353-TOC/assets/62879218/72258136-a1fe-4459-8da4-c0463228cb3a)
